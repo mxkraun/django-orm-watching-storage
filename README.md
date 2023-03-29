@@ -20,7 +20,7 @@ pip install -r requirements.txt
 - PASSWORD
 - SECRET_KEY
 - DEBUG=False
-- ALLOWED_HOSTS=['*']
+- ALLOWED_HOSTS=localhost
 
 1. Поместите файл `.env` рядом с `manage.py`.
 2. `.env` содержит текстовые данные без кавычек.
