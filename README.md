@@ -18,7 +18,7 @@ pip install -r requirements.txt
 - NAME
 - USER
 - PASSWORD
-- SECRET_KEY=REPLACE_ME
+- SECRET_KEY
 - DEBUG=False
 - ALLOWED_HOSTS=['*']
 
